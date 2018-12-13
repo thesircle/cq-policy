@@ -1,59 +1,77 @@
-Drafted policy but valid and enforced.
-======================================
 
 Note: for Pakistan office, only contact the manager there. Do not contact HR, DevOps, Admin or Accounts depts unless your are contacted by them for any specific matter.
 
-Office timing
--------------
+This policy may change time to time and it is the responsibiilty of employee to track the changes.
 
+If a policy clause is not addressed to a specific group/team, it means it is for all.
+
+## Office timing
+#### For group POB:
 Office timings are 8am to 6pm (9 productive working hours + 1 hour break) for six days a week (Monday to Saturday)
+#### For group FIB:
+Flexible timings and result oriented scheme. As of now, there are no office timings, however, its good to sync up with your manager on timings. Weekly targets and results matter more rather than office timings.
+* Work slot #1: Under development
+* work slot #2: 4.5 hours a day, 6 days a week. You just have to show productivity of 27 hours a week. No hard and fast rules to work exactly 4.5 hours a day (though it IS recommended to). You may skill few hours in a day and work on weekend if you like but one week's targets should not go out of control.
+* work slot #3: 2.25 hours a day, 6 days a week. Same as above.
 
-Break
-------
+## Break
 
+#### For group POB:
 * Break timings are 1pm to 2:15pm on Fridays and 1pm to 2pm on all other days.
 * Taking a break for minimum of 30 minutes is compulsory for all employees. One of the reasons of this is that without such amount of rest, the health of employee and work performance may go down. Unhealthy employee is unhealthy employer.
+#### For group FIB:
+Not applicable.
 
-Working on holidays
--------------------
+## Working on holidays
+#### For group POB:
 Working on holidays will be compensated at 1.5 the daily rate of the monthly salary.
+#### For group FIB:
+Not applicable
 
-Working on weekends
--------------------
+## Working on weekends
+
+#### For group POB:
 Working on weekends will be compensated at 1.25 the daily rate of the monthly salary.
+#### For group FIB:
+Not applicable
 
-Late Sitting meals
-------------------
-
+## Late Sitting meals
+#### For group POB:
 In case your office time exceeds 12 working hours (non-break hours) due to workload, deadline of a project or asked by the manager due to any other reason, you will be eligible to order a meal (Up to Rs: 200). Late sitting due to your own inefficiency  or by your own choice or without written consent of manager will not fall in this category.
-
+#### For group FIB:
+Not applicable
 
 Late arrival at sign-in time or after break time
 ------------------------------------------------
-
+#### For group POB:
 * Employees are expected to be in office 15 to 1 minute before signing time.
 * An employee will be considered as late if he/she arrives after 15 minutes of sign in time.
 * Make sure you arrive on time or 5 minutes before sign-in time (open laptop/ computer, login etc). 
 * Keep early morning discussions, gossips with colleagues and other such activities deferred to lunch break.
+#### For group FIB:
+Not applicable
 
 Leaving early from office in the middle of work
 -----------------------------------------------
-
+#### For group POB:
 * If you want to leave early due to some emergency then you have to communicate, in writing, the reason to your manager (Communication mode will be informed by your manager)
 * If less than 7.5 "productive work hours" are spent in office, the day will be considered as half day.
 * For example, two half days in a month constitute a full day off (absent).
 * If less than 4 hours were spent in office, the day will not be considered as a working day at all.
 * If you will not follow your office timings than your name might be excluded from "Best Performers of the Month" policy and your increment review will also get affected, followed by JPS low score.
-
+#### For group FIB:
+Not applicable
 
 Penalties
 ---------
-
+#### For group POB:
 You will have to pay fine if you will find to do these following things:
 1. Late Coming (Rs:100/-)
 2. Wrong Check-in/Checkout/Break/Discussion Time (Rs:100/-)
 3. Downloading/Streaming large files on Fiber Optic/ non-dsl connection (Rs:1,000/-)
 4. Not following sign-off checklist before signing off (Rs: 100/-)
+#### For group FIB:
+Not applicable
 
 Office discipline
 ----------------
@@ -65,7 +83,7 @@ Office discipline
 
 Casual & annual leaves
 ----------------------
-
+#### For group POB:
 * There are about 15 national holidays in a year.
 * Employees are entitled to all public national holidays in Pakistan in addition to your holiday entitlement
 * The employer will not entertain any provisional or local holidays.
@@ -86,15 +104,19 @@ For permanent employees:
 * Annual leaves cannot be taken after submission of resignation.
 * Leaves available after completion of one year of employment: To be continued.
 
+#### For group FIB:
+No leaves available.
+
 Sick leaves
 -----------
-
+#### For group POB:
 * All permanent employees will be eligible to take sick leaves without prior approval in case of emergency, though you have to timely inform your manager/hr/teamlead.
 * There is no separate allocation of sick leaves and they will be adjusted in annual leaves balance.
 * Employee has to submit medical certificate to the management if 2 or more consecutive days are taken off as sick leave.
 * Any sick leave taken just before or after public holiday/s, weekend or annual leave will need substantiation with a doctor’s certificate/medical note.
 * In case of sick leave, employer reserves the right to require you to appear before such registered Medical Practitioner or Medical Board as employer may deem appropriate and necessary and decision in respect of leave may be made in light of opinion rendered by such medical practitioner, or as the case may be, Medical Board.
-
+#### For group FIB:
+No leaves available.
 
 Source code, documents, images and all such assets
 --------------------------------------------------
@@ -184,12 +206,12 @@ Whatever way (web based application, or any other application when used (subject
 
 Terminations
 --------------
-
+#### For all:
 CQ reserves the right to
 * discuss termination matters with other employees if it deems fit.
 * contact the parents/ family members of employee and discuss matter.
 
-
+#### For group POB:
 Notice periods
 
 * The minimum notice period by employee should be at least 0.5 month in case of both permanent and probationary period. If employee is not able to give this notice period due to any reason then he/she is bound to return salary equivalent to the notice period to CQ as compensation to losses incurred by CQ due to employee’s early leaving.
@@ -199,18 +221,22 @@ Notice periods
 * In case of termination of permanent employee by the CQ, CQ will either give a 0.5 month advance notice period to the permanent employee OR 0.5 month's advance salary to the permanent employee with the condition to leave immediately. In the case of the Employee being dismissed for gross misconduct, CQ will decide if any notice period will be applied and/or worked and also reserves the right to withhold 0.5 month's salary. An example, but not limited to, of such a case is, employee unwilling to work cooperatively and had decided in his/her heart to leave CQ any way but is blackmailing for notice period.
 * It is correct that such cases are hard to explain or justify. The employer may terminate this Agreement and the Employee’s employment at any time due to misconduct, inadequate performance or behavior or no reason at all and may not give any notice period or additional pay (other than the duration the employee had worked in office).
 
+#### For group FIB:
+No notice period applicable. Either party (employer or employee) can cease to be in the relation at anytime without a notice period.
+
 GOVERNING LAW AND JURISDICTION
 ------------------------------
 This employment agreement shall be governed and construed in accordance with the laws of Pakistan. It is agreed that any dispute of whatsoever nature between employee and management will be subject to exclusive jurisdiction of courts of Pakistan.
 
 Personal belongings and data
 ----------------------------
+#### For group POB:
 * Employees are discouraged (though not strictly disallowed) to bring their own electronic devices such as laptops/bags/ cams etc nor CQ takes any responsibility if the said are lost/damaged in office.
 * Putting personal data on office machines is now allowed. CQ reserves the right to take possession of its assets at any time without notice.
 
-JPS (job performance score)
----------------------------
-
+JPS (job performance score) - Basis of appraisals or disciplinary actions
+-------------------------------------------------------------------------
+#### For group POB:
 The followings, but not limited to, may affect your JPS
 
 * Late arrivals at sign in time
@@ -218,9 +244,18 @@ The followings, but not limited to, may affect your JPS
 * Early sign-offs
 * Not properly following any of the guidelines in this policy
 
+#### For group FIB:
+* Completing weekly targets
+* Quality of estimations
+* Quality of work
+* Quality of communication and presentation
+* Ability to understand and follow precise instructions
+
+Yearly appraisals, bi yearly for special ones.
+
 Relaxation during office timing
 -------------------------------
-
+#### For group POB:
 * Normal expectations are 9 productive hours + 1 hour break (for break and relaxation).
 * However, if you get too much tired and fatigue, you may rest on a sofa, chair, beanbag.
 * Such furniture and appliances cannot not be used for working but just for rest and relaxation for a short and reasonable time (5 to 10 minutes if the furniture and appliances are limited in number).
@@ -231,7 +266,7 @@ Others should be given chance to use the furniture or appliance.
 
 Todo at office sign-in time
 --------------------------
-
+#### For group POB:
 * Sign-in via sign-in portal or whatever way your manager had informed you. If you arrive on time but  fail to signin on time via signing portal/method, you can be considered as a late arrival.
 * Pull from repositories
 * Check for any instructions, tasks, messages from fellows or lead/manager.
@@ -240,7 +275,7 @@ If you cannot sign in due to system error, server down or internet connectivity 
 
 Todo at office sign-off time
 ---------------------------
-
+#### For group POB:
 * Push related assets in project to git (such as but not limited to, code, pictures, psds)
 * Update project management tool/method, with your daily activity, in the way instructed by your teamlead/manager. You should add description, images (if applicable), or other material relevant, to each activity/task done.
 * Show the said for review by your manager/teamlead. Allow 5 to 10 minutes and do not rush.
@@ -258,17 +293,18 @@ Employee monitoring
 
 Leaving for break
 -----------------
+#### For group POB:
 * Make your laptop/PC to sleep if not shut down.
 * Arrange your chairs partially inside the table
 
 Mobile Phones Disturbance
 -------------------------
-
+#### For group POB:
 * Please remember to put your mobile on vibration or reduce volume to avoid any disturbance through ringtones and please also don't attend long calls in development halls.
 
 Personal Bikes, cars, vehicles
 -----------------------------
-
+#### For group POB:
 * CQ will not be responsible for any kind of damage if you will give your vehicle to Office boys or damage/loss in parking place.
 
 Medical allowance for permanent employees
@@ -278,13 +314,16 @@ To be continued
 
 Salary
 ------
-
+#### For group POB:
 * The salary will be transferred to the employee’s bank account before the 11th of each month in which salary is due.
 * Salary will be reviewed annually and amount of increment will depend on employee’s track record and/or JPS.
 * Advance salary up to a maximum of 50% of the provident fund deducted from the employee’s account can be taken under certain circumstances only after the approval of management.
+#### For group FIB:
+Salary can be transfered on monthly(Usually 1st of next month) or weekly(Usually Mondays) basis.
 
 Provident fund
 --------------
+#### For group POB:
 PLEASE TOTALLY IGNORE PROVIDENT FUND SECTION NOR GET INFLUENCED BY THIS, AS THIS IS NOT FINALIZED.
 
 A permanent employee will be entitled to become a member of CQ Technologies Employees Provident Fund Scheme when he/she is confirmed in service after successful completion of probationary period and contribute an amount equivalent to maximum of 5% (five percent) of his/her salary. In case of completion of two years of employment as confirmed team member CQ (prior to notice period), team member is entitled to 100% of employer’s contribution apart from his own contribution. The provident fund will be paid on yearly basis and account of each employee will be cleared within 60 days after claim and/or qualifying for equal contribution by the employer.
@@ -348,3 +387,45 @@ Disclaimers
 * Under few circumstances, any of the above said policy may be made void, unenforceable or contrary if decided by management
 * This policy is subject to change by sole discretion of management and employees agree to be bound by changes made from time to time.
 * Employee should followup with policy changes by him/herself and object in writing if any policy is totally not agreeable by him/her. Otherwise it would be implied that the policy, the changes made in policy from time to time are agreed by the employee.
+
+
+Fixed and incentive based team FIB:
+===================================
+
+#### Better salary
+We try to give better salary in this section. Lets say we think the candidate is worth of or the candidate is already taking 90k from his/her current employer. We will remunerate 100k (10% extra) but this is in two parts. 60 fixed, 40 variable.
+
+#### Salary calculation
+60% is fixed and 40% is variable incentive efficiency based. If there are 4 weeks in a month. Fixed per week = 60 / 4 = 15. Bonus = 40 / 4 = 10. Total per week 15+10 = 25.
+
+#### What is bonus/ incentive and how to get it
+For each task/project/ ticket assigned etc, the dev and his/her manager sits down and mutually conclude estimated hours on fair bases. Well, this part is usual or should be usual any way in any organization for planning and deliverables etc.
+
+Suppose the employee has to work for 27 hours (4.5 hrs a day, 6 days a week) and the tasks assigned to him and completed are also somewhat equal to 27 hours. He has earned 15+10=25 of his salary but let's say there was a huge difference. He did only 50% of the tasks, Looks like he would get just 15 (the fixed part) and no bonus.
+
+4 weeks fixed and bouns makes up his monthly salary.
+
+#### Why not just fixed salary like most companies do?
+As this is a remote, home based job and we do not do survailance to monitor if the candidate is putting effort enough and to satisfaction, the only way to measure the hardwork and loyalty of resource is by results.
+
+By this we can benefit more hardworking and loyal candidates. As you know, skillfull, loyal and hardworking people usually don't have to worry a lot as their work speaks from themselves.
+
+#### What if I complete my tasks way ahead of time?
+If someone completes tasks even earlier than ETA, he gets even more bonus by starting next week (virtually) or he can rest. But honestly, it would be rare as the overall salary package would be already according to the skill level of the employee. Either way, if tasks are completed on or before time, no further work is required (until the candidate wants to work more, which is welcomed and he will get additional salary).
+
+If you are completing tasks in lesser time than the ETA, that means, you are performing more than expectations. In this case, you can apply for an appraisal. An appraisal will increase your basic salary and bonus band, expect more from you, raise your designation.
+
+#### What if I need time to give estimates, in the first place, for the task?
+The reasonable time taken in estimation is itself a task and will have an ETA. This will be added to the list of tasks to be done.
+
+#### What if the manager thinks a task should be done in less amount of time and I think I would need more time.
+With stats of almost every company, this is normal, in any scenario. Managers and company want more and more efficiency (sometimes just pressing without logic) and resources usually have a different percpetive influenced by (comfort zones, unkown contingency/stuck issues, extra/buffer time). This sentance may have sounded negative but these are some realities of few  if not all(managers/companies and resources).
+
+However, we try to do best to maintain harmony. Its understood that realistic and practicality of ETA of tasks and the resource actually realizing and getting the bonus if he had worked hard, is the key to success here.
+
+The only way we see, as a solution, is both managers and resources to communicate their percpectives in a logical way and also for few moments, consider analysing things exchanging percpectives (managers to think like resources and resouorces to understand managers perspective).
+
+#### What if I got sick or busy somewhere and was not able to engage for few days.
+You have to compensate the work hours next week (or later in future) to get the complete salary and bonus.
+
+
