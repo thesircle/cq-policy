@@ -5,7 +5,8 @@ This policy may change time to time and it is the responsibiilty of employee to 
 
 If a policy clause is not addressed to a specific group/team, it means it is for all.
 
-## Office timing
+Office timing
+---------------
 #### For group POB:
 Office timings are 8am to 6pm (9 productive working hours + 1 hour break) for six days a week (Monday to Saturday)
 #### For group FIB:
@@ -14,7 +15,8 @@ Flexible timings and result oriented scheme. As of now, there are no office timi
 * work slot #2: 4.5 hours a day, 6 days a week. You just have to show productivity of 27 hours a week. No hard and fast rules to work exactly 4.5 hours a day (though it IS recommended to). You may skill few hours in a day and work on weekend if you like but one week's targets should not go out of control.
 * work slot #3: 2.25 hours a day, 6 days a week. Same as above.
 
-## Break
+Break
+------
 
 #### For group POB:
 * Break timings are 1pm to 2:15pm on Fridays and 1pm to 2pm on all other days.
@@ -28,7 +30,8 @@ Working on holidays will be compensated at 1.5 the daily rate of the monthly sal
 #### For group FIB:
 Not applicable
 
-## Working on weekends
+Working on weekends
+--------------------
 
 #### For group POB:
 Working on weekends will be compensated at 1.25 the daily rate of the monthly salary.
@@ -428,4 +431,7 @@ The only way we see, as a solution, is both managers and resources to communicat
 #### What if I got sick or busy somewhere and was not able to engage for few days.
 You have to compensate the work hours next week (or later in future) to get the complete salary and bonus.
 
-
+#### I worked for 27 hours a week and I was expected for the same hours (the estimation of tasks was also 27 hours), but I was not able to acheive anything.
+Asuuming that you and manager and mutually agreed that the said tasks will be done in 27 hour, there are two outcomes of this:
+1. You let your manager know the genuine reasons why the tasks were not completed, he may increase the estimations and /or mark whatever you have done as "comppleted and accepted" if he get convinced.
+1. If the reasons you state are not justified, we have no means to measure the genuiness. It will be considered as you have not worked at all.
