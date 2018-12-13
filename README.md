@@ -435,3 +435,6 @@ You have to compensate the work hours next week (or later in future) to get the 
 Asuuming that you and manager and mutually agreed that the said tasks will be done in 27 hour, there are two outcomes of this:
 1. You let your manager know the genuine reasons why the tasks were not completed, he may increase the estimations and /or mark whatever you have done as "comppleted and accepted" if he get convinced.
 1. If the reasons you state are not justified, we have no means to measure the genuiness. It will be considered as you have not worked at all.
+
+#### I worked for the 27 hours expected but I was not able to complete and get the equivalent tasks expected. Some tasks were complete and approved but not all.
+You will get basic fixed salary of 60/4weeks=15 in our example, and no bonus as bonus is for fully completed tasks for the week.
