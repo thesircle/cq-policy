@@ -12,8 +12,8 @@ Office timings are 8am to 6pm (9 productive working hours + 1 hour break) for si
 #### For group FIB:
 Flexible timings and result oriented scheme. As of now, there are no office timings, however, its good to sync up with your manager on timings. Weekly targets and results matter more rather than office timings.
 * Work slot #1: Under development
-* work slot #2: 4.5 productive working hours a day, 6 days a week. You just have to show productivity of 27 hours a week (6 days x 4.5 hrs). No hard and fast rules to work exactly 4.5 hours a day (though it IS recommended to). You may skill few hours in a day and work on weekend if you like but one week's targets should not go out of control.
-* work slot #3: 9 productive working hours a day, 6 days a week. You just have to show productivity of 54 hours a week (6 days x 9 hrs). No hard and fast rules to work exactly 9 hours a day (though it IS recommended to). You may skill few hours in a day and work on weekend if you like but one week's targets should not go out of control.
+* work slot #2: 4.5 productive working hours a day, 6 days a week. You just have to show productivity of 27 hours a week (6 days x 4.5 hrs). No hard and fast rules to work exactly 4.5 hours a day (though it IS recommended to). You may adjust few  (minimum possible) hours up and down in a day and work on weekend if you like but one week's targets should not go out of control.
+* work slot #3: 9 productive working hours a day, 6 days a week. You just have to show productivity of 54 hours a week (6 days x 9 hrs). No hard and fast rules to work exactly 9 hours a day (though it IS recommended to). You may adjust few  (minimium possible) hours up and down in a day and work on weekend if you like but one week's targets should not go out of control.
 * work slot #4: 2.25 productive working hours a day, 6 days a week. Same as above.
 
 NOTE: productive working hours are hours you use for productivity. These do not include break time.
