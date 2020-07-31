@@ -412,7 +412,7 @@ Suppose the employee has to work for 27 hours (4.5 hrs a day, 6 days a week) and
 4 weeks fixed and bouns makes up his monthly salary.
 
 #### Why not just fixed salary like most companies do?
-As this is a remote, home based job and we do not do survailance to monitor if the candidate is putting effort enough and to satisfaction, the only way to measure the hardwork and loyalty of resource is by results.
+One of the only effective ways to measure the hardwork and loyalty of resource is by results.
 
 By this we can benefit more hardworking and loyal candidates. As you know, skillfull, loyal and hardworking people usually don't have to worry a lot as their work speaks from themselves.
 
