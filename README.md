@@ -1,9 +1,53 @@
+# Table of contents
+
+  - [Office timing](#office-timing)
+  - [Break](#break)
+  - [Working on holidays](#working-on-holidays)
+  - [Working on weekends](#working-on-weekends)
+  - [Late Sitting meals](#late-sitting-meals)
+  - [Late arrival at sign-in time or after break time](#late-arrival-at-sign-in-time-or-after-break-time)
+  - [Leaving early from office in the middle of work](#leaving-early-from-office-in-the-middle-of-work)
+  - [Penalties](#penalties)
+  - [Office discipline](#office-discipline)
+  - [Casual & annual leaves](#casual--annual-leaves)
+  - [Sick leaves](#sick-leaves)
+  - [Source code, documents, images and all such assets](#source-code-documents-images-and-all-such-assets)
+  - [Intellectual property](#intellectual-property)
+  - [Confidentiality](#confidentiality)
+  - [CONFLICT OF INTEREST](#conflict-of-interest)
+  - [Complaint Procedure](#complaint-procedure)
+  - [Non-retaliation](#non-retaliation)
+  - [Disciplinary Action](#disciplinary-action)
+  - [DISCIPLINARY PROCEDURE](#disciplinary-procedure)
+  - [Communication Medium](#communication-medium)
+  - [TimeTracking tool](#timetracking-tool)
+  - [Terminations](#terminations)
+  - [GOVERNING LAW AND JURISDICTION](#governing-law-and-jurisdiction)
+  - [Personal belongings and data](#personal-belongings-and-data)
+  - [JPS (job performance score) - Basis of appraisals or disciplinary actions](#jps-job-performance-score---basis-of-appraisals-or-disciplinary-actions)
+  - [Relaxation during office timing](#relaxation-during-office-timing)
+  - [Todo at office sign-in time](#todo-at-office-sign-in-time)
+  - [Todo at office sign-off time](#todo-at-office-sign-off-time)
+  - [Employee monitoring](#employee-monitoring)
+  - [Leaving for break](#leaving-for-break)
+  - [Mobile Phones Disturbance](#mobile-phones-disturbance)
+  - [Personal Bikes, cars, vehicles](#personal-bikes-cars-vehicles)
+  - [Medical allowance for permanent employees](#medical-allowance-for-permanent-employees)
+  - [Salary](#salary)
+  - [Provident fund](#provident-fund)
+  - [Roles and Duties of the Departments](#roles-and-duties-of-the-departments)
+  - [Resource guidance on work](#resource-guidance-on-work)
+  - [Disclaimers](#disclaimers)
+  - [Fixed and incentive based team FIB:](#fixed-and-incentive-based-team-fib)
+
 
 Note: for Pakistan office, only contact the manager there. Do not contact HR, DevOps, Admin or Accounts depts unless your are contacted by them for any specific matter.
 
-This policy may change time to time and it is the responsibiilty of employee to track the changes.
+This policy may change time to time and it is the responsibiilty of employee to track the changes. 
 
 If a policy clause is not addressed to a specific group/team, it means it is for all.
+
+Specific contract and offers override general practices and policies but if something is not mentioned in your offer and contract or in any explicit communication, the following policies apply to you. This is the normal sequence. You should not cherrypick terms yourself.
 
 Office timing
 ---------------
@@ -122,7 +166,7 @@ Sick leaves
 * Any sick leave taken just before or after public holiday/s, weekend or annual leave will need substantiation with a doctor’s certificate/medical note.
 * In case of sick leave, employer reserves the right to require you to appear before such registered Medical Practitioner or Medical Board as employer may deem appropriate and necessary and decision in respect of leave may be made in light of opinion rendered by such medical practitioner, or as the case may be, Medical Board.
 #### For group FIB:
-No leaves available.
+No leaves available in probation. Later when employee gets permanent, he may get 5 non-cacheable leaves per year but all this depends on case by case basis. It depends on individual employee and terms settled with him/her.
 
 Source code, documents, images and all such assets
 --------------------------------------------------
@@ -216,6 +260,10 @@ Terminations
 CQ reserves the right to
 * discuss termination matters with other employees if it deems fit.
 * contact the parents/ family members of employee and discuss matter.
+* The Employee must send a copy of their notice to CQ's address or email it to hr@cqtechnologies.com
+* In some cases, employees do not work dedicatedly or take leaves. Usuall threashold of this is equivalence to 3 days absense in a month. In such cases, CQ reserves the right to treat it as misconduct and consider the employee just stopped working without giving proper notice. For example employee unwilling to work cooperatively and had decided in his/her heart to leave CQ any way but is blackmailing for notice period (just passing time). In these cases, the employee will also be liable to penalities that might have incurred if he had just stopped working suddently.
+* CQ also reserves the right to monitor screen activity of the employee in this case and in any normal case as well with intention to train or mere intention to monitor.
+* It is correct that such cases are hard to explain or justify. The employer may terminate this Agreement and the Employee’s employment at any time due to misconduct, inadequate performance or behavior or no reason at all and may not give any notice period or additional pay (other than the duration the employee had worked in office).
 
 #### For group POB:
 Notice periods
@@ -223,12 +271,16 @@ Notice periods
 * The minimum notice period by employee should be at least 0.5 month in case of both permanent and probationary period. If employee is not able to give this notice period due to any reason then he/she is bound to return salary equivalent to the notice period to CQ as compensation to losses incurred by CQ due to employee’s early leaving.
 * The employee may leave the company without notice within the first week of probationary period and the employer can also terminate employment without notice in the first week of probationary period.
 * A VIOLATION WILL RESULT IN WITHHELD SALARY AND/OR PROVIDENT FUND AND ALSO HIS/HER OUTSTANDING SALARY IF ANY WILL BE REVOKED.
-* The Employee must send a copy of their notice to CQ's address or email it to hr@cqtechnologies.com
 * In case of termination of permanent employee by the CQ, CQ will either give a 0.5 month advance notice period to the permanent employee OR 0.5 month's advance salary to the permanent employee with the condition to leave immediately. In the case of the Employee being dismissed for gross misconduct, CQ will decide if any notice period will be applied and/or worked and also reserves the right to withhold 0.5 month's salary. An example, but not limited to, of such a case is, employee unwilling to work cooperatively and had decided in his/her heart to leave CQ any way but is blackmailing for notice period.
-* It is correct that such cases are hard to explain or justify. The employer may terminate this Agreement and the Employee’s employment at any time due to misconduct, inadequate performance or behavior or no reason at all and may not give any notice period or additional pay (other than the duration the employee had worked in office).
 
 #### For group FIB:
-No notice period applicable. Either party (employer or employee) can cease to be in the relation at anytime without a notice period.
+Usually notice is of 2 months from Employee. Else employee has to surrender equivalent salary and any damages incurred to company due to his sudden absense. This clause is effective from 3rd day of work start. Regardless of probation or permanent status of employee.
+
+
+Probation
+-----------
+#### For all:
+Usually the probation is of 4 months.
 
 GOVERNING LAW AND JURISDICTION
 ------------------------------
@@ -325,7 +377,7 @@ Salary
 * Salary will be reviewed annually and amount of increment will depend on employee’s track record and/or JPS.
 * Advance salary up to a maximum of 50% of the provident fund deducted from the employee’s account can be taken under certain circumstances only after the approval of management.
 #### For group FIB:
-Salary can be transfered on monthly(Usually 1st of next month) or weekly(Usually Mondays) basis.
+Salary can be transfered on monthly basis (Usually 10th to 15th of next month). For example, you worked from Jan 1st to Jan 31st. Your salary of this duration will be transferred to  you between Feb 10th to Feb 15th.
 
 Provident fund
 --------------
