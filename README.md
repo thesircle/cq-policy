@@ -52,7 +52,7 @@ Specific contract and offers override general practices and policies but if some
 Office timing
 ---------------
 #### For group POB:
-Office timings are 8am to 6pm (9 productive working hours + 1 hour break) for six days a week (Monday to Saturday)
+Office timings are 8am to 6pm (8-9 productive working hours + 1 hour break (depending on batch and offer)) for five-six days a week (Monday to Friday OR Monday to Saturday (different batches))
 #### For group FIB:
 Flexible timings and result oriented scheme. As of now, there are no office timings, however, its good to sync up with your manager on timings. Weekly targets and results matter more rather than office timings.
 * Work slot #1: Under development
@@ -87,7 +87,7 @@ Not applicable
 
 ## Late Sitting meals
 #### For group POB:
-In case your office time exceeds 12 working hours (non-break hours) due to workload, deadline of a project or asked by the manager due to any other reason, you will be eligible to order a meal (Up to Rs: 200). Late sitting due to your own inefficiency  or by your own choice or without written consent of manager will not fall in this category.
+In case your office time exceeds 12 working hours (non-break hours) due to workload, deadline of a project or asked by the manager due to any other reason, you will be eligible to order a meal (terms and caps apply). Late sitting due to your own inefficiency or by your own choice or without written consent of manager will not fall in this category.
 #### For group FIB:
 Not applicable
 
