@@ -7,7 +7,6 @@
   - [Late Sitting meals](#late-sitting-meals)
   - [Late arrival at sign-in time or after break time](#late-arrival-at-sign-in-time-or-after-break-time)
   - [Leaving early from office in the middle of work](#leaving-early-from-office-in-the-middle-of-work)
-  - [Penalties](#penalties)
   - [Office discipline](#office-discipline)
   - [Casual & annual leaves](#casual--annual-leaves)
   - [Sick leaves](#sick-leaves)
@@ -54,7 +53,8 @@ Office timing
 #### For group POB:
 Office timings are 8am to 6pm (8-9 productive working hours + 1 hour break (depending on batch and offer)) for five-six days a week (Monday to Friday OR Monday to Saturday (different batches))
 #### For group FIB:
-Flexible timings and result oriented scheme. As of now, there are no office timings, however, its good to sync up with your manager on timings. Weekly targets and results matter more rather than office timings.
+Depends on your batch. Few examples would be 10am to 8pm but it may vary case by case and offer by offer.
+
 * Work slot #1: Under development
 * work slot #2: 4.5 productive working hours a day, 6 days a week. You just have to show productivity of 27 hours a week (6 days x 4.5 hrs). No hard and fast rules to work exactly 4.5 hours a day (though it IS recommended to). You may adjust few  (minimum possible) hours up and down in a day and work on weekend if you like but one week's targets should not go out of control.
 * work slot #3: 9 productive working hours a day, 6 days a week. You just have to show productivity of 54 hours a week (6 days x 9 hrs). No hard and fast rules to work exactly 9 hours a day (though it IS recommended to). You may adjust few  (minimium possible) hours up and down in a day and work on weekend if you like but one week's targets should not go out of control.
@@ -112,16 +112,7 @@ Leaving early from office in the middle of work
 #### For group FIB:
 Not applicable
 
-Penalties
----------
-#### For group POB:
-You will have to pay fine if you will find to do these following things:
-1. Late Coming (Rs:100/-)
-2. Wrong Check-in/Checkout/Break/Discussion Time (Rs:100/-)
-3. Downloading/Streaming large files on Fiber Optic/ non-dsl connection (Rs:1,000/-)
-4. Not following sign-off checklist before signing off (Rs: 100/-)
-#### For group FIB:
-Not applicable
+
 
 Office discipline
 ----------------
@@ -343,7 +334,7 @@ Todo at office sign-off time
 
 Please follow completely and sequentially
 
-We take this system very seriously and any violations or cheating carelessness found can be punishable and mostly fined according to the nature of violation.
+We take this system very seriously. 
 
 Employee monitoring
 -------------------
