@@ -124,17 +124,21 @@ Office discipline
 
 Casual & annual leaves
 ----------------------
-#### For group POB:
+
+#### For both POB and FIB
 * There are about 15 national holidays in a year.
 * Employees are entitled to all public national holidays in Pakistan in addition to your holiday entitlement
 * The employer will not entertain any provisional or local holidays.
 * Due to the nature of employer’s business, Employees may be required to work on (a) designated public holiday(s).
 * Where you are required to work on a Public Holiday(s), employer will provide compensation.
-* No days are given of in lieu for a holiday occurring on a weekend unless so declared by the management; of course.
 * All working allowed should be approved by management.
 * There are no kind of paid leaves in probationary period. Even in case of national holidays, the employee has a right to have a leave on national holidays but this will not be paid as working day. Attendance will be counted for the days which the employee had actually worked on.
 * For both permanent and probationary employees:
 * Employees must inform there manager with minimum of 3 days notice prior the leave day. If the leaves are more than 2 consecutive days, inform with a 2 weeks notice period.
+* 
+#### For group POB:
+
+* No days are given of in lieu for a holiday occurring on a weekend unless so declared by the management; of course.
 
 For permanent employees:
 
@@ -146,7 +150,7 @@ For permanent employees:
 * Leaves available after completion of one year of employment: To be continued.
 
 #### For group FIB:
-No leaves available.
+See the section for 'both' groups.
 
 Sick leaves
 -----------
