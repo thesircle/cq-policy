@@ -442,7 +442,7 @@ Disclaimers
 * Employee should followup with policy changes by him/herself and object in writing if any policy is totally not agreeable by him/her. Otherwise it would be implied that the policy, the changes made in policy from time to time are agreed by the employee.
 
 
-Fixed and incentive based team FIB:
+Fixed and incentive based team FIB: (IGNORE THIS SECTION unless explicitly applied to you)
 ===================================
 
 #### Better salary
